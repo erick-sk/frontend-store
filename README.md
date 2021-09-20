@@ -1,3 +1,2 @@
-#Frontend Store
-
-Practice for BEM
+# Frontend Store
+Frontend store website.
